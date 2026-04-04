@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🔭 I'm passionate about Machine Learning and web programming<br>🥅 Favorite Quote: Stay Consistent, Stay Curious, Keep Building<br>⭐Passion: I enjoy playing sports, especially badminton, listening to music, and watching beautiful things 😁
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bug-createdme&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bug-createdme&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bug-createdme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### 🌐 Software engineer with pragmatic mindset.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8DF7&background=AF3CFF00&width=435&lines=Hi+travelers%2C;How's+it+going%3F;You+are+in+my+Github+Profile;Feel+free+to+wander+around+%3C3)](https://git.io/typing-svg)
